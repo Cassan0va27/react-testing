@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         My Awesome react App at learn code online
-        <p>Continous Integration</p>
+        <p><b>Confirmed Working</b></p>
       </header>
     </div>
   );
